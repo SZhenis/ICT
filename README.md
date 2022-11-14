@@ -27,8 +27,7 @@ guesses = ""
 
    print("\n")
 
-   <strong><em>if </em></strong>wrong == 0:
-       print("Ты выиграл! :)")
+ 
 
        <strong><em>break</em></strong>
 
